@@ -6,7 +6,7 @@ import { Column } from "react-table";
 import  Menu2  from "./components/menu/menu2"
 //import "./components/menu/menu.css"
 import { Route, Routes } from "react-router-dom";
-import Car from "./pages/List_Routhe";
+//import Car from "./pages/List_Routhe";
 import LandingPage from "./pages/LandingPage";
 import AddCountry from "./pages/AddCountry";
 import AddNeighbours from "./pages/AddNeighbours";
